@@ -1,7 +1,7 @@
 // Josue Fonseca
-// @fonsecajosue
 // fonsecajosue88@csu.fullerton.edu
-// Partners: @haylieboscia & @pratiklamichhane05
+// @fonsecajosue
+// Partners: @haylieboscia,@pratiklamichhane05
 
 #include <iostream>
 #include <string>
